@@ -27,9 +27,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot-first.png)
-![](./screenshot-second.png)
-![](./screenshot-third.png)
+<img width="959" alt="screenshot-first" src="https://user-images.githubusercontent.com/71252906/221370435-a6b7ba8d-3127-4084-84bf-b0082dfb0656.png">
+<img width="959" alt="screenshot-second" src="https://user-images.githubusercontent.com/71252906/221370437-27f1ce06-e47d-4055-bf8e-1f3722b567af.png">
+<img width="960" alt="screenshot-third" src="https://user-images.githubusercontent.com/71252906/221370415-9f0b0aa2-e243-44fe-ab61-964ae149daec.png">
 
 ### Links
 
