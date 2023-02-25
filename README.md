@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/29nikita/interactive-rating-app)
+- Live Site URL: [Live site](https://nikita-rating-app.netlify.app/)
 
 ## My process
 
@@ -67,7 +67,7 @@ for(let i=1; i<=5; i++){
 ```
 ## Author
 
-- Website - [Nikita](https://www.your-site.com)
+- Website - [Nikita](https://nikita-rating-app.netlify.app/)
 - Frontend Mentor - [@29nikita](https://www.frontendmentor.io/profile/29nikita)
 
 ## Acknowledgments
